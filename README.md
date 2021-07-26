@@ -1,3 +1,8 @@
+# React와 Firebase NoSQL을 사용하여 만든 RealTime ChatApp입니다.
+이 프로젝트는 React-Redux, React-Router-Dom, React-Promise, React-Bootstrap, React-Hook-Form, React-Icon, React-Thunk와
+Firebase, mimeTypes, Moment를 사용하여 제작하였습니다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
