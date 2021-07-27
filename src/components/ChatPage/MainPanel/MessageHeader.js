@@ -79,7 +79,7 @@ function MessageHeader({ handleSearchChange }) {
         Object.entries(userPosts)
             .sort((a, b) => b[1].count - a[1].count)
             .map(([key, val], i) => (
-                <Media key={1}>
+                <Media key={i}>
                     <img
                         style={{ borderRadius: 25 }}
                         width={48}
